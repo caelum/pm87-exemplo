@@ -1,0 +1,19 @@
+FJ-91 | Arquitetura e Design de Projetos Java
+
+Confuso com tantos design patterns, frameworks e boas práticas? Criar um projeto em 
+Java é um grande desafio: são muitas opções de tecnologia e muitos modos diferentes 
+de fazer as diversas camadas se comunicarem. O objetivo do curso é expor o aluno a 
+uma grande quantidade dessas opções, desde a modelagem e design das classes, até a 
+escolha das tecnologias mais adequadas para formar uma arquitetura robusta.
+
+Conceitos de orientação a objetos são rediscutidos. Design Patterns são apresentados 
+na prática em uma aplicação real e com exemplos no Java SE e no Java EE. As diferentes 
+tecnologias e frameworks são abordadas com exemplos práticos, comparações e muita 
+análise de pontos positivos e negativos de cada uma. Há tópicos como SOA, Web Services, 
+REST, mensageria, EJB, Web, DDD, mapeamento objeto relacional, Hibernate, escalabilidade, 
+performance, segurança, arquitetura em camadas, metodologias ágeis e muitos outros.
+
+É um curso que busca formar o Arquiteto Java que o mercado pede e precisa nos dias de hoje. 
+Com discussões aprofundadas, o FJ-91 o ajudará a tomar decisões importantes em seus projetos. 
+Durante o curso, muitos tópicos da certificação de arquiteto Java (SCEA) serão tratados, 
+formando uma boa base para todas as suas três fases.
